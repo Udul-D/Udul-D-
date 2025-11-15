@@ -1,7 +1,7 @@
 <!-- Animated Welcome -->
 <h1 align="center">Hi 👋, I'm Udul</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Backend+%7C+Cloud+%7C+DevOps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Backend+Developer+%7C+Cloud+%7C+DevOps" alt="Typing SVG" style="max-width:100%;"/>
 </h3>
 
 ---
@@ -21,16 +21,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udul-D&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udul-D&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -38,7 +28,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udul-pallewatta-b08863250)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uduldulsara@gmail.com)  
-[![Mobile](https://img.shields.io/badge/Mobile-%2B94779141217-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+94779141217)
 
 ---
 
