@@ -1,10 +1,10 @@
-<!-- Animated Welcome -->
-<h1 align="center">Hi 👋, I'm Udul</h1>
-<h3 align="center">🚀 Software Engineering Undergraduate | Full Stack Developer | Backend & Cloud Enthusiast</h3>
+# Hi, I'm Udul 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+JavaScript+%7C+DevOps+%7C+Full+Stack+Developer" alt="Typing SVG"/>
-</p>
+🚀 **Software Engineering Undergraduate**  
+💻 **Full Stack Developer | Backend & Cloud Enthusiast**  
+🌩️ Passionate about **Java, Python, JavaScript, DevOps & Cloud Infrastructure**  
+🔧 Love building scalable systems, APIs, and automation tools  
+📚 Always learning. Always building.  
 
 ---
 
@@ -19,4 +19,28 @@
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udul-D&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udul-D&layout=compact&theme=default)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR-PORTFOLIO-LINK)
+
+---
+
+💡 *“Code. Learn. Improve. Repeat.”*
